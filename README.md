@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adapt-ng
-- 👀 I’m interested in cyber security, blue team/red team, learning my linux kali VM..changing career paths is fun...new beginnings
+- 👀 I’m interested in cyber security, blue team/red team, learning linux, and anything else I can consume...new beginnings
 - 🌱 I’m currently learning Cyber Security
 
 - 📫 Twitter: @Ad4pt_ng
